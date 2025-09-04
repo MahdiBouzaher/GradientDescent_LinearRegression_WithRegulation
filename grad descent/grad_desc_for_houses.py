@@ -124,3 +124,4 @@ print("First 10 normalized predictions:", y_pred_normalized[:10])
 print("First 10 denormalized predictions:", y_pred_original[:10])
 
 # test 
+# test 2
