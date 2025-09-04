@@ -122,3 +122,5 @@ y_pred_original = denormalize_predictions(y_pred_normalized, y_mean_train, y_std
 print("\n TEST SET PREDICTIONS ")
 print("First 10 normalized predictions:", y_pred_normalized[:10])
 print("First 10 denormalized predictions:", y_pred_original[:10])
+
+# test 
